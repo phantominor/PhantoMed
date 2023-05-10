@@ -10,8 +10,8 @@ Artery
 - Internal thoracic artery 
 - Pulmonary artery 
 
-  - 1st branch
-  - 2nd branch
+  1. 1st branch
+  2. 2nd branch
 
 - Aorta 
 

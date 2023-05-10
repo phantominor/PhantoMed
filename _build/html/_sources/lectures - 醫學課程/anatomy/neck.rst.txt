@@ -5,29 +5,45 @@ Overview
 --------
 
 【結構】
-^^^^^^^
+^^^^^^^^^^^
 
 - 淺層頸部可分為前中後：頸前有前三角，頸中有後三角，前後三角以 SCM (sternocleidomastoid m.) 相隔；頸後為 trapezius m.。
 - 頸部筋膜大致分成兩部分： superficial cervical fascia、deep cervical fascia。
+
   1. Superficial cervical facsia
+
     - 定位：位於 platysma m. 外，包覆整個頸部外層，相當於組織學中頸部皮膚的 hypodermis。
     - 分布：不僅止於頸部，頭皮、上肢皆有包覆。
+
 - Deep cervical fascia
+
   - 別稱：muscular fascia
   - 分成三部分：最外層一圈的 investing layer，其內有前方氣管前的 pretracheal layer，包覆後方脊柱與周邊肌肉的 prevertebral layer，以及中間兩側的 carotid sheath。
-    1. Investing layer 
+  
+    1. Investing layer
+
       - 包覆兩肌肉：SCM、trapezius m.，於後方匯聚於 nuchal ligament。
       - 前下方遇上胸骨的 manubrium 分叉成前後兩層，形成 suprasternal space，其中有 anterior jugular v. 會合而成的 jugular arch 經過。
+
     2. Pretracheal layer
+
       - 最前方 muscular portion 包覆頸前肌群如 strap muscle，其次 visceral portion 呈歐姆型包覆在氣管、食道前方。
       - 前連 hyoid bone，後連 buccopharyngeal fascia 圍住食道和氣管，下合心包膜，側接 carotid sheath。
+
     3. Prevertebral layer
+
       - 別稱： scalene fascia (因為側邊延伸的 axillary sheath 穿過 scalene m.)
       - 包覆脊柱周圍肌肉如 scalene m. 與 longus colli m. 等等，劃開 investing layer 即可見。
       - 前緣上接顱底，下合 endothoracic fascia，側邊延伸成為 axillary sheath，內含 brachial plexus 和 vessels。
+
     4. Carotid sheath
+
       - 為 pretracheal fascia 向側邊延伸出的構造。
       - 裡面含有 common carotid a.、vagus n.、internal jugular v. (內 → 外)；以及支配 carotid body 的 carotid sinus n. 以及圍繞在其周圍的 periariterial plexus 負責偵測血壓。
       - 上接顱底，下至頸根，與縱膈相通。
+
     5. Retropharyngeal space
+
       - 位於 buccopharyngeal fascia 與 prevertebral fascia 之間，使吞嚥時咽喉可向後移動，為 potential space。
+  
+  

@@ -15,7 +15,7 @@ Artery
 
 - Aorta 
 
-.. image:: ../_static/banner_light.png
+.. image:: ../../_static/banner_light.png
     :width: 500
 
 :Name: Phantom

@@ -6,10 +6,10 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'MediNote'
+project = 'Phantom\'s Haven'
 copyright = '2023, Phantom'
 author = 'Phantom'
-release = '0.0.1'
+release = '0.1.0'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -24,9 +24,9 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 html_theme = 'pydata_sphinx_theme'
 html_static_path = ['_static']
-html_logo = '_static/banner_light.png'
+html_logo = '_static/quill_drawing_a_line_icon.png'
 
 html_theme_options = {
    "external_links": [],
-   "github_url": "https://github.com/hikarimusic/MediNote",
+   "github_url": "https://github.com/phantominor/PhantoMed",
 }

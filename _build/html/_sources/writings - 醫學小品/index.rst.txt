@@ -4,4 +4,5 @@
 .. toctree::
    :maxdepth: 3
 
-   stroke
+   stroke-part-1
+   stroke-part-2

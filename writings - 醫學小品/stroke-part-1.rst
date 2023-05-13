@@ -1,5 +1,5 @@
-**[art.1] Stroke**
-===================
+**[art.1] Stroke (Part 1)**
+============================
 
 *English report, 2nd sem. of third grade in NTUMED*
 
@@ -17,8 +17,8 @@ following extensive research and advocacy by clinicians. The reclassification ha
 precise data documentation and statistical analysis, thereby supporting advancements in acute healthcare 
 and the allocation of research funding for stroke.
 
-**Types and Etiology**
---------------------------
+**1-1. Types and Etiology**
+---------------------------
 
 Strokes can be classified into two main categories: ischemic stroke and hemorrhagic stroke, 
 where ischemic stroke is more commonly seen.
@@ -70,8 +70,8 @@ TIA is sometimes not classified under these two types. It is a temporary interru
 to the brain, causing stroke-like symptoms that typically last less than 24 hours, which can be viewed 
 as an alarm before real stroke occurrence.
 
-**Pathophysiology**
------------------------
+**1-2. Pathophysiology**
+------------------------
 
 When cells in the brain are injured, molecules such as DNA can leak into the extracellular environment, 
 causing changes in expression and structure that lead to complex secondary pathophysiological processes. 
@@ -128,20 +128,32 @@ and cocaine abuse can significantly increase the risk.
   into the neurons, leading to ATP depletion, excitotoxicity, edema, and eventual necrosis. Furthermore, 
   red blood cell lysis can contribute to oxidative damage and exacerbate necrosis.
 
-**Summary**
-------------
+**1-3. Summary**
+----------------
 
 .. image:: ../_static/stroke_comparison_table.png
-   :width: 300 px
+   :width: 600 px
    :align: center
    :alt: ischemic and hemorrhagic stroke comparison table
 
+**1-4. References**
+-------------------
 
-Therapy
-~~~~~~~~
-
-- Restoring blood flow to the brain
-- Treating stroke-induced neurological damage
+-	Kuriakose D, Xiao Z. Pathophysiology and Treatment of Stroke: Present Status and Future Perspectives. Int J Mol Sci. 2020 Oct 15;21(20):7609. doi: 10.3390/ijms21207609. PMID: 33076218; PMCID: PMC7589849.
+-	Purves D, Augustine GJ, Fitzpatrick D, et al., editors. Neuroscience. 2nd edition. Sunderland (MA): Sinauer Associates; 2001. The Blood Supply of the Brain and Spinal Cord. Available from: https://www.ncbi.nlm.nih.gov/books/NBK11042/
+-	Woodruff, T.M., Thundyil, J., Tang, SC. et al. Pathophysiology, treatment, and animal and cellular models of human ischemic stroke. Mol Neurodegeneration 6, 11 (2011). https://doi.org/10.1186/1750-1326-6-11
+-	Shakir, R. (2018). The struggle for stroke reclassification. Nature Reviews Neurology, 14(8), 447-448. doi: 10.1038/s41582-018-0036-5.
+-	Donnan, G. A., Fisher, M., Macleod, M., & Davis, S. M. (2008). Stroke. The Lancet, 371(9624), 1612-1623. https://doi.org/10.1016/S0140-6736(08)60694-7
+-	Feigin, V. L., Lawes, C. M., Bennett, D. A., & Anderson, C. S. (2003). Stroke epidemiology: A review of population-based studies of incidence, prevalence, and case-fatality in the late 20th century. The Lancet Neurology, 2(1), 43-53. https://doi.org/10.1016/S1474-4422(03)00266-7
+-	Taipei Medical University, Taipei Neurological Institute. (2023). 腦中風有幾種？要看哪一科呢？Retrieved from https://reurl.cc/ykzloq
+-	Global Burden of Disease Study 2016 Collaborators. (2019). Global, regional, and national burden of stroke, 1990-2016: A systematic analysis for the Global Burden of Disease Study 2016. Lancet Neurology, 18(5), 439-458. doi: 10.1016/S1474-4422(19)30034-1.
+-	Kelly-Hayes, M. (2010). Influence of age and health behaviors on stroke risk: Lessons from longitudinal studies. Journal of the American Geriatrics Society, 58(Suppl 2), S325-S328. doi: 10.1111/j.1532-5415.2010.02915.x.
+-	Boehme, A. K., Esenwa, C., & Elkind, M. S. (2017). Stroke risk factors, genetics, and prevention. Circulation Research, 120(3), 472-495. doi: 10.1161/CIRCRESAHA.116.308398.
+-	Hopkins Medicine. (n.d.). Types of Stroke. Retrieved from https://www.hopkinsmedicine.org/health/conditions-and-diseases/stroke/types-of-stroke
+-	Sec. Translational Neuroscience. (2022, October 13). REVIEW article. Frontiers in Neuroscience, 16, Article 981726. https://doi.org/10.3389/fnins.2022.981726
+-	Woodruff, T.M., Thundyil, J., Tang, SC. et al. Pathophysiology, treatment, and animal and cellular models of human ischemic stroke. Mol Neurodegeneration 6, 11 (2011). https://doi.org/10.1186/1750-1326-6-11
+-	Gibson, C.M., Hadipour, M., & Anwar, A. (n.d.). Ischemic Stroke Pathophysiology. In Wikidoc. Retrieved May 12, 2023, from https://www.wikidoc.org/index.php/Ischemic_stroke_pathophysiology
+-	Gibson, C.M. & Mehrsefat, S. (n.d.). Hemorrhagic stroke pathophysiology. In Wikidoc. Retrieved May 12, 2023, from https://www.wikidoc.org/index.php/Hemorrhagic_stroke_pathophysiology
 
 
 

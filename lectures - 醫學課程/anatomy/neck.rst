@@ -18,8 +18,7 @@ Overview
 - Deep cervical fascia
 
   - 別稱：muscular fascia
-  - 分成三部分：最外層一圈的 investing layer，其內有前方氣管前的 pretracheal layer，包覆後方脊柱與周邊肌肉的
-     prevertebral layer，以及中間兩側的 carotid sheath。
+  - 分成三部分：最外層一圈的 investing layer，其內有前方氣管前的 pretracheal layer，包覆後方脊柱與周邊肌肉的 prevertebral layer，以及中間兩側的 carotid sheath。
   
     1. Investing layer
 
